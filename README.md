@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🔭 I’m a Computer science and Business student
 - 🌱 I’m currently learning HTML and CSS.
 - :book: Apart from that I love learning foreign languages
-- 📫 You can reach me through : [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/sowmiya-ramanathan)
+- 📫 You can reach me through : [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sowmiya-ramanathan)
