@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 🌐 Web Developer
-- 📫 Connect with Me:
-![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F1883%2Flinkedin&psig=AOvVaw1fB3jcEtvYO4K3dqLVrgzi&ust=1690188190006000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCMifmPO3pIADFQAAAAAdAAAAABAD)(https://in.linkedin.com/in/sowmiya-ramanathan)
+- 📫 Connect with Me:[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sowmiya-ramanathan)
