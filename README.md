@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 🌐 Web Developer
 - 📫 Connect with Me:
-[![LinkedIn]](https://in.linkedin.com/in/sowmiya-ramanathan)
+![LinkedIn](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fcircle-linkedin-512.png&tbnid=Yg6duBnvMOXXvM&vet=12ahUKEwiCts_mt6SAAxXAk2MGHYeaCysQMygCegUIARDYAQ..i&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F317750%2Flinkedin_icon&docid=wFhGWIQLW_hY8M&w=512&h=512&q=linkedin%20icon&ved=2ahUKEwiCts_mt6SAAxXAk2MGHYeaCysQMygCegUIARDYAQ)(https://in.linkedin.com/in/sowmiya-ramanathan)
