@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🌐 Web Developer
-- 📫 Connect with Me:[![Linkedin](https://raw.githubusercontent.com/sowmiyaramanathan/sowmiyaramanathan/main/images/linkedin.svg)]()
-<a href=”https://in.linkedin.com/in/sowmiya-ramanathan"><img align=”left” src=”https://raw.githubusercontent.com/sowmiyaramanathan/sowmiyaramanathan/main/images/linkedin.svg" alt=”Sowmiya Ramanathan | LinkedIn” width=”21px”/></a>
+- 📫 Connect with Me:
+![Sowmiya Ramanathan](https://raw.githubusercontent.com/sowmiyaramanathan/sowmiyaramanathan/main/images/linkedin.svg)
+
+<img align=”left” src=”" alt=”Sowmiya Ramanathan | LinkedIn” width=”21px”/>
