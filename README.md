@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+<!-- ### Hi there 👋
 **sowmiyaramanathan/sowmiyaramanathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -40,7 +38,7 @@ I'm a Web Developer 💻
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Next](https://img.shields.io/badge/next-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -62,7 +60,7 @@ I'm a Web Developer 💻
 
 ## 📝 Latest Blog Posts
 
-<-- - [How to Create a Beautiful README for Your GitHub Profile](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)
+<!-- - [How to Create a Beautiful README for Your GitHub Profile](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)
 -->
 
 ## 📈 GitHub Stats 
