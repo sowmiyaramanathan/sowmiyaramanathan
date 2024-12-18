@@ -18,7 +18,7 @@ Hi there, I'm Sowmiya 👋
 </h3>
 
 <h2 align="center">
-I'm a Web Developer 💻
+I'm a Full Stack Developer 💻
 </h2> 
 
 ### 🤝 Connect with me:
@@ -32,7 +32,7 @@ I'm a Web Developer 💻
 
 ## 🌱 I'm currently learning
 
-- React Query
+- Backend using Golang
 
 ## 💼 Technical Skills
 
