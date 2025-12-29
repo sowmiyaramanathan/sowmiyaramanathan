@@ -60,5 +60,4 @@ I'm a Software Engineer 💻
 -->
 
 ## 📈 GitHub Stats 
-
-[![Sowmiya's github stats](http://github-readme-streak-stats.herokuapp.com?user=sowmiyaramanathan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sowmiyaramanathan)](https://git.io/streak-stats)
