@@ -18,21 +18,21 @@ Hi there, I'm Sowmiya 👋
 </h3>
 
 <h2 align="center">
-I'm a Full Stack Developer 💻
+I'm a Software Engineer 💻
 </h2> 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/sowmiya-ramanathan/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/sowmiya-ramanathan"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 </br>
 
 ## 🔭 I'm currently working on
 
-- my portfolio projects
+- contributing to Open Source
 
 ## 🌱 I'm currently learning
 
-- Backend using Golang
+- Cloud and Product
 
 ## 💼 Technical Skills
 
@@ -61,4 +61,4 @@ I'm a Full Stack Developer 💻
 
 ## 📈 GitHub Stats 
 
-[![Sowmiya's github stats](https://github-readme-stats.vercel.app/api?username=sowmiyaramanathan)](https://github.com/sowmiyaramanathan)
+[![Sowmiya's github stats](http://github-readme-streak-stats.herokuapp.com?user=sowmiyaramanathan&theme=dark&background=000000)](https://git.io/streak-stats)
