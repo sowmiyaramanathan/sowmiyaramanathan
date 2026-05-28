@@ -18,7 +18,7 @@ Hi there, I'm Sowmiya 👋
 </h3>
 
 # 💫 About Me:
-🔭 I’m currently working on contributing to Open Source Program<br>🌱 I’m currently learning Cloud and Product<br>👯 I’m looking to collaborate on Product engineering
+🔭 Currently learning Devops<br>👯 I’m looking to collaborate on engineering, product and related spaces!
 
 
 ## 🌐 Socials:
