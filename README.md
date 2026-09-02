@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 Hi there, I'm Sowmiya 👋
 </h3>
 
-<p>Software engineer, working mostly on Golang and payment related systems</p>
+Software engineer, building B2B procure payment systems
 
 ### 💫 What am I doing these days?
-🔭 Currently learning Devops<br>👯 Looking to collaborate on engineering, product and related spaces!
+🔭 Took up a side project<br>👯 Looking to collaborate on engineering, product and related spaces!
 
 
 ## 🌐 Social(s)
